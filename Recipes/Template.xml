@@ -386,7 +386,7 @@
 		<CleanupSuperseded>[Boolean]</CleanupSuperseded>
 		<!-- Amount of superseded versions which are kept -->
 		<KeepSuperseded>[Int]</KeepSuperseded>
-		</Supersedence>
+	</Supersedence>
 	<!-- You can optionally deploy the application to one or more specified Collections here -->
 	<Deployment>
 		<!-- DeploySoftware - [Boolean] Switch for Software Deployment, Application should be distributed before deployment -->
